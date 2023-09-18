@@ -9,5 +9,10 @@ int main() {
         cout << i << endl;
     }
 
+    {
+        int x = 5;
+        cout << x << endl;
+    }
+
     return 0;
 }
